@@ -1,0 +1,11 @@
+{
+    "pack": {
+        "name": "Vanish",
+        "id": "vanish",
+        "pack_format": 15,
+        "authors": [
+            "Drake Archer Mayland/Drake__archer"
+        ],
+        "description": "Adds 2 new functions/commands that let you \"leave\" and \"join\" worlds, (wink wink, nudge nudge)"
+    }
+}
